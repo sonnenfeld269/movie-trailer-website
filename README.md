@@ -15,5 +15,5 @@ The main parts of this projects are:
 # Installation
 
 1. Clone the github project with `git clone https://github.com/sonnenfeld269/movie-trailer-website.git`
-2. Go inside the folder with `cd movie_trailer_website`
+2. Go inside the folder with `cd movie-trailer-website`
 3. Start the programm by running `python entertainment_center.py`
